@@ -18,12 +18,12 @@ const data = [
   {
     avatar: AVTR1,
     name: 'Carlos Henrique Mendes- Desenvolvedor Full Stack',
-    review: 'conjunto das palavras escritas, em livro, folheto, documento etc a comentários, aditamentos, sumário etc. redação original de qualquer obra escrita.'
+    review: 'Sempre muito esforçada, acompanho a evolução da minha irmã todos os dias, é muito responsável, inteligente e pró ativa, desejo muito sucesso e crescimento profissional pois sei que com a dedicação dela, ela consegue.'
   },
   {
     avatar: AVTR2,
     name: 'Victor - Desenvolvedor Full Stack',
-    review: 'conjunto das palavras escritas, em livro, folheto, documento etc a comentários, aditamentos, sumário etc. redação original de qualquer obra escrita.'
+    review: 'A Karla é uma profissional muito dedicada e prestativa, sempre disposta em aprender a ajudar ao próximo. Ótima pra trabalhar em equipe e responder dinamicas.'
   },
   {
     avatar: AVTR3,
