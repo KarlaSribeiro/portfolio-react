@@ -55,7 +55,8 @@
 .about__icon{
     color: #50003c;
     font-size: 1.4rem;
-    margin-bottom: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 0,5rem;
     align-items: center;
 }
 
@@ -125,7 +126,7 @@
 
     .about__card {
         padding: 0.4rem;
-        max-width: 120px;
+        max-width: 140px;
         word-wrap: break-word;
     }
 
@@ -165,7 +166,7 @@
 
     .about__card {
         padding: 0.4rem;
-        max-width: 120px;
+        max-width: 140px;
         word-wrap: break-word;
     }
 

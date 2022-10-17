@@ -48,10 +48,10 @@ const about = () => {
           </div>
 
             <p>
-              Me chamo, Karla Ribeiro, tenho 28 anos e me descobri dentro da tecnologia através do meu irmão, 
+              Me chamo, Karla Ribeiro, tenho 29 anos e me descobri dentro da tecnologia através do meu irmão, 
               que me inspira cada dia a ser uma desenvolvedora melhor do que ontem.
-              Sempre terei o que aprender e enquanto eu tiver força de vontade em obter conhecimento, 
-              é que sigo no caminho certo. <b>Sou otimista, auto-didata e dedicada.</b>
+              Atualmente trabalho em uma empresa de tecnologia, chamada: YBOH, sou Front-End developer de colocação Júnior, portanto, busco mais conhecimento para adquirir mais experiências e evoluir na minha área.
+              <b> Sou otimista, auto-didata e dedicada.</b>
             </p>
           
           

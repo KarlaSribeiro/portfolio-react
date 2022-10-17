@@ -24,7 +24,7 @@ const Contact = () => {
   return (
     <section id='contact'>
       <h5>Aguardo sua mensagem</h5>
-      <h2>Contate-me</h2>
+      <h2>Contate-me!!</h2>
 
       <div className="container contact__container">
         <div className="contact__options">
@@ -36,12 +36,12 @@ const Contact = () => {
          <article className="contact__option">
            <BiMessageDetail className='contact__option-icon'/>
           <h4>Mensagem LinkedIn</h4>
-          <h5><a href="https://www.linkedin.com/in/karla-s-ribeiro/" target="_blank">Clique aqui</a></h5>
+          <h5><a href="https://www.linkedin.com/in/karla-s-ribeiro/" target="_blank" rel="noreferrer">Clique aqui</a></h5>
          </article>
          <article className="contact__option">
            <BsWhatsapp className='contact__option-icon'/>
           <h4>Whatsapp</h4>
-          <h5><a href="https://api.whatsapp.com/send?phone=5513991695131&text=" target="_blank">Clique Aqui</a></h5>
+          <h5><a href="https://api.whatsapp.com/send?phone=5513991695131&text=" target="_blank" rel="noreferrer">Clique Aqui</a></h5>
          </article>
         </div>  
       </div>

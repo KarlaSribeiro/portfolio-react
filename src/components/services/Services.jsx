@@ -23,10 +23,10 @@ const data = [
   demo: 'https://github.com'
 },
 {
-  id: 3,
-  image: IMG3,
-  title:'Conversor Min-Seg',
-  github: 'https://github.com/KarlaSribeiro/Conversor-Minutos-Segundos',
+  id: 5,
+  image: IMG5,
+  title:'Clone-Starbucks',
+  github: 'https://github.com/KarlaSribeiro/Clone-Starbucks',
   demo: 'https://github.com'
 },
 {
@@ -35,13 +35,6 @@ const data = [
   title:'Calculo IMC',
   github: 'https://github.com/KarlaSribeiro/Calculo-de-IMC',
   demo: 'https://github.com'
-},
-{
-  id: 5,
-  image: IMG5,
-  title:'Clone-Starbucks',
-  github: 'https://github.com/KarlaSribeiro/Clone-Starbucks',
-  demo: 'https://github.com'
 }
 ]
 
@@ -49,7 +42,7 @@ const Services = () => {
   return (
     <section id='services'>
       <h5>Alguns dos meus</h5>
-      <h2>Projetos Desenvolvidos</h2>
+      <h2>Projetos Desenvolvidos:</h2>
 
       <div className="container service__container">
        {
@@ -61,7 +54,7 @@ const Services = () => {
             </div>
             <h3>{title}</h3>
             <div className="service__item-cta">
-              <a href={github} className='btn' target='_blank'>GitHub</a>
+              <a href={github} className='btn' target='_blank' rel="noreferrer">GitHub</a>
             </div>
           </article>
            )
